@@ -50,7 +50,7 @@ Or
 ```just open the folder and press shift+rightclick -> open command prompt here.```
 
 ### For mac -
-```Head into System Preferences and select Keyboard > Shortcuts > Services. Find "New Terminal at Folder" in the settings and click the box. Now, when you're in Finder, just right-click a folder and you're shown the open to open Terminal.```
+```Head into System Preferences and select Keyboard > Shortcuts > Services. Find "New Terminal at Folder" in the settings and click the box. Now, when you're in Finder, just right-click a folder and you're shown the option to open Terminal.```
 
 
 ### When you're in the terminal, run this command- 
