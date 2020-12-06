@@ -46,14 +46,14 @@ install nodejs on your machine - https://nodejs.org/en/download/
 Then open a terminal(mac) or command prompt(windows)
 navigate to the folder in your terminal using the "cd" command.
 Or
-###For windows - 
-just open the folder and press shift+rightclick -> open command prompt here.
+### For windows - 
+```just open the folder and press shift+rightclick -> open command prompt here.```
 
-###For mac -
-Head into System Preferences and select Keyboard > Shortcuts > Services. Find "New Terminal at Folder" in the settings and click the box. Now, when you're in Finder, just right-click a folder and you're shown the open to open Terminal.
+### For mac -
+```Head into System Preferences and select Keyboard > Shortcuts > Services. Find "New Terminal at Folder" in the settings and click the box. Now, when you're in Finder, just right-click a folder and you're shown the open to open Terminal.```
 
 
-After you're in the terminal, run this command- 
+### When you're in the terminal, run this command- 
 ```node main.js```
 
 Thank you.
